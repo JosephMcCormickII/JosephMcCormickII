@@ -12,7 +12,6 @@ Most of my public work lives under my studio org, [Decision Clarity](https://git
 
 **Recent focus:** LLM API integration, retrieval and structured extraction, workflow automation, and the CI/CD and governance discipline to keep it maintainable.
 
-[See the live demos and templates →](https://portfolio.decisionclarity.io)
 ---
 
 💼 **[Explore Live System Demos & Software Portfolios](https://decisionclarity.io)**
