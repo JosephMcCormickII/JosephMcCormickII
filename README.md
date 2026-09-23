@@ -14,4 +14,4 @@ Most of my public work lives under my studio org, [Decision Clarity](https://git
 
 ---
 
-💼 **[Explore Live System Demos & Software Portfolios](https://decisionclarity.io)**
+💼 **[Explore Live System Demos & Software Portfolios](https://portfolio.decisionclarity.io)**
